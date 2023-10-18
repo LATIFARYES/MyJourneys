@@ -11,6 +11,7 @@
 		2790DD2A2AE0988200111CBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2790DD292AE0988200111CBB /* ContentView.swift */; };
 		2790DD2C2AE0988300111CBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2790DD2B2AE0988300111CBB /* Assets.xcassets */; };
 		2790DD2F2AE0988300111CBB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2790DD2E2AE0988300111CBB /* Preview Assets.xcassets */; };
+		2790DD362AE0989700111CBB /* MyJourneys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2790DD352AE0989700111CBB /* MyJourneys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2790DD292AE0988200111CBB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2790DD2B2AE0988300111CBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2790DD2E2AE0988300111CBB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2790DD352AE0989700111CBB /* MyJourneys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyJourneys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2790DD272AE0988200111CBB /* MyJourneysApp.swift */,
 				2790DD292AE0988200111CBB /* ContentView.swift */,
+				2790DD352AE0989700111CBB /* MyJourneys.swift */,
 				2790DD2B2AE0988300111CBB /* Assets.xcassets */,
 				2790DD2D2AE0988300111CBB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2790DD362AE0989700111CBB /* MyJourneys.swift in Sources */,
 				2790DD2A2AE0988200111CBB /* ContentView.swift in Sources */,
 				2790DD282AE0988200111CBB /* MyJourneysApp.swift in Sources */,
 			);
